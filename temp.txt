@@ -1,1 +1,0 @@
-Hi this is temporary file that I have created to learn the basics of git
